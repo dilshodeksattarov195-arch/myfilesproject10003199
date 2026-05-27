@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenponnect",
+        "uuid": 32242721,
+        "checksum": "zz302e"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
